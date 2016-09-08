@@ -125,5 +125,4 @@ var List = React.createClass({
 
 /*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
 ReactDOM.render(<Main/>,document.getElementById('root'));
-/*jkdfkhflhsdhl*/
-/*hfhfhfhfhf*/
+/*ветка master*/
