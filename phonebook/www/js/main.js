@@ -18,7 +18,7 @@ var contact_data = [
         patronymic: 'Гаврилович'
     }
 ];
-//var contact_data=[];
+var contact_data=[];
 /*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
 var Main = React.createClass({
     render: function () {
