@@ -1,0 +1,25 @@
+.list {
+    border: 4px double black; /* Параметры границы */
+    background: #fc3; /* Цвет фона */
+    padding: 10px; /* Поля вокруг текста */
+   }
+.none {
+    display: none;
+}
+.contact_number input{
+    margin-left: 14px; 
+}
+.contact_surname input{
+    margin-left:  10px;
+}
+
+
+
+.contact_name input{
+    margin-left:  44px;
+} 
+
+.contact_patronymic input{
+    margin-left:  8px;
+} 
+
